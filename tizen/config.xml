@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" version="1.0.0"
+        viewmodes="maximized">
+  <tizen:application id="SmQmElHEtR.TizenWearableStarter" package="SmQmElHEtR" required_version="4.0"/>
+  <feature name="http://tizen.org/feature/screen.size.all"/>
+  <content src="dist/index.html"/>
+  <icon src="icon.png"/>
+  <name>TizenWearableStarter</name>
+  <tizen:profile name="wearable"/>
+</widget>
